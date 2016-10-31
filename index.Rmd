@@ -1,0 +1,12 @@
+---
+title: "Git Your Research Done"
+output:
+  html_document:
+    theme: flatly
+    highlight: tango
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+To come, website full of actually honest to goodness real life examples of using the black magic git to help accelerate, expand and reproduce-ize your research. 
